@@ -11,3 +11,4 @@ It Consist As Follows :
 - Attrition Count By Years At Company
 - Attrition Count By Salary Slab
 - Attrition Count By Education Field
+- Departmentwise Filters
